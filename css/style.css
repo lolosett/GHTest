@@ -1,0 +1,18 @@
+body{color:white;}
+header{
+
+    height:70px;
+    background-color:orange;
+}
+
+main{
+    height:2000px !important;
+    background-color:blue !important;
+
+
+}
+
+footer{
+    height:80px;
+    background-color:green;
+}
